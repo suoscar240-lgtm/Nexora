@@ -1,0 +1,627 @@
+[
+  {
+    "title": "1v1.Lol",
+    "file": "games/cl1v1lol.html",
+    "thumbnail": "assets/thumbnails/1v1lol.png"
+  },
+  {
+    "title": "2048",
+    "file": "games/cl2048.html",
+    "thumbnail": "assets/thumbnails/2048.png"
+  },
+  {
+    "title": "Achillies",
+    "file": "games/clachillies2.html",
+    "thumbnail": "assets/thumbnails/achillies.png"
+  },
+  {
+    "title": "Agar.io",
+    "file": "games/clagariolite.html",
+    "thumbnail": "assets/thumbnails/agario.png"
+  },
+  {
+    "title": "Ages of Conflict",
+    "file": "games/clagesofconflict.html",
+    "thumbnail": "assets/thumbnails/ageofconflict.png"
+  },
+  {
+    "title": "Backrooms",
+    "file": "games/clbackrooms.html",
+    "thumbnail": "assets/thumbnails/backrooms.png"
+  },
+  {
+    "title": "Bad Piggies",
+    "file": "games/clbadpiggies.html",
+    "thumbnail": "assets/thumbnails/badpiggies.jpg"
+  },
+  {
+    "title": "Baldi's Basics",
+    "file": "games/clbaldisbasics.html",
+    "thumbnail": "assets/thumbnails/baldisbasics.png"
+  },
+  {
+    "title": "Bank Robbery 2",
+    "file": "games/clbankrobbery2.html",
+    "thumbnail": "assets/thumbnails/bankrobbery2.png"
+  },
+  {
+    "title": "Basket Random",
+    "file": "games/clbasketrandom.html",
+    "thumbnail": "assets/thumbnails/basketrandom.png"
+  },
+  {
+    "title": "Battle Simulator",
+    "file": "games/clbattlesim.html",
+    "thumbnail": "assets/thumbnails/battlesim.jpg"
+  },
+  {
+    "title": "Bitlife",
+    "file": "games/clbitlife.html",
+    "thumbnail": "assets/thumbnails/bitlife.png"
+  },
+  {
+    "title": "Bloons TD5",
+    "file": "games/clbloonsTD5.html",
+    "thumbnail": "assets/thumbnails/bloonstd5.jpg"
+  },
+  {
+    "title": "Bob the Robber 5",
+    "file": "games/clbobtherobber5.html",
+    "thumbnail": "assets/thumbnails/bobtherobber5.png"
+  },
+  {
+    "title": "Bottle Jump 3D",
+    "file": "games/clbottlejump3d.html",
+    "thumbnail": "assets/thumbnails/bottlejump3d.jpg"
+  },
+  {
+    "title": "Checkers",
+    "file": "games/clcheckers.html",
+    "thumbnail": "assets/thumbnails/checkers.png"
+  },
+  {
+    "title": "Cluster Rush",
+    "file": "games/clclusterrush.html",
+    "thumbnail": "assets/thumbnails/cluster-rush.jpg"
+  },
+  {
+    "title": "Cookie Clicker",
+    "file": "games/clcookieclickercool.html",
+    "thumbnail": "assets/thumbnails/cookieclicker.png"
+  },
+  {
+    "title": "Cooking Mama 3",
+    "file": "games/clchess.html",
+    "thumbnail": "assets/thumbnails/cookingmama.png"
+  },
+  {
+    "title": "Coreball",
+    "file": "games/clcoreball.html",
+    "thumbnail": "assets/thumbnails/coreball.png"
+  },
+  {
+    "title": "Crazy Cattle 3D",
+    "file": "games/clcrazycattle3d.html",
+    "thumbnail": "assets/thumbnails/crazycattle.png"
+  },
+  {
+    "title": "Crazy Chicken 3D",
+    "file": "games/crazychicken3D.html",
+    "thumbnail": "assets/thumbnails/crazychicken.png"
+  },
+  {
+    "title": "Crossy Road",
+    "file": "games/clcrossyroad.html",
+    "thumbnail": "assets/thumbnails/crossyroad.png"
+  },
+  {
+    "title": "Counterstrike 1.6",
+    "file": "games/clcs1.6.html",
+    "thumbnail": "assets/thumbnails/counterstrike.png"
+  },
+  {
+    "title": "Curve Ball",
+    "file": "games/clcurveball.html",
+    "thumbnail": "assets/thumbnails/curveball.png"
+  },
+  {
+    "title": "Dig to China",
+    "file": "games/cldigtochina.html",
+    "thumbnail": "assets/thumbnails/digtochina.jpg"
+  },
+  {
+    "title": "Doge Miner",
+    "file": "games/cldogeminer.html",
+    "thumbnail": "assets/thumbnails/dogeminer.png"
+  },
+  {
+    "title": "Doomz.io",
+    "file": "games/cldoomzio.html",
+    "thumbnail": "assets/thumbnails/doomzio.png"
+  },
+  {
+    "title": "Raft Wars 2",
+    "file": "games/clraftwars2.html",
+    "thumbnail": "assets/thumbnails/raftwars.jpg"
+  },
+  {
+    "title": "Draw Climber",
+    "file": "games/cldrawclimber.html",
+    "thumbnail": "assets/thumbnails/drawclimber.webp"
+  },
+  {
+    "title": "Drift Boss",
+    "file": "games/cldriftboss.html",
+    "thumbnail": "assets/thumbnails/driftboss.png"
+  },
+  {
+    "title": "Drive Mad",
+    "file": "games/cldrivemad.html",
+    "thumbnail": "assets/thumbnails/drivemad.jpg"
+  },
+  {
+    "title": "Eaglercraft 1.12.2",
+    "file": "games/clEaglercraft1.12.html",
+    "thumbnail": "assets/thumbnails/eaglercraft.webp"
+  },
+  {
+    "title": "Escape Road 2",
+    "file": "games/clescaperoad2.html",
+    "thumbnail": "assets/thumbnails/escaperoad.png"
+  },
+  {
+    "title": "Feed Us 5",
+    "file": "games/feedus5.html",
+    "thumbnail": "assets/thumbnails/feedus.png"
+  },
+  {
+    "title": "FIFA International",
+    "file": "games/clFIFAinternationalsoccer.html",
+    "thumbnail": "assets/thumbnails/fifainternational.png"
+  },
+  {
+    "title": "Five Nights at Freddy's",
+    "file": "games/clFNAF.html",
+    "thumbnail": "assets/thumbnails/fnaf.jpg"
+  },
+  {
+    "title": "Five Nights at Freddy's 2",
+    "file": "games/clFNAF2.html",
+    "thumbnail": "assets/thumbnails/fnaf2.webp"
+  },
+  {
+    "title": "Five Nights at Freddy's 3",
+    "file": "games/clFNAF3.html",
+    "thumbnail": "assets/thumbnails/fnaf3.webp"
+  },
+  {
+    "title": "Five Nights at Freddy's 4",
+    "file": "games/clFNAF4.html",
+    "thumbnail": "assets/thumbnails/fnaf4.png"
+  },
+  {
+    "title": "Friday Night Funkin'",
+    "file": "games/clfridaynightfunkin.html",
+    "thumbnail": "assets/thumbnails/fnf.jpg"
+  },
+  {
+    "title": "Flood Runner 4",
+    "file": "games/clfloodrunner4.html",
+    "thumbnail": "assets/thumbnails/floodrunner.png"
+  },
+  {
+    "title": "Fluidism",
+    "file": "games/clfluidism.html",
+    "thumbnail": "assets/thumbnails/fluidism.png"
+  },
+  {
+    "title": "Geometry Dash",
+    "file": "games/clgeometrydashscratch.html",
+    "thumbnail": "assets/thumbnails/geometrydash.webp"
+  },
+  {
+    "title": "Getaway Shootout",
+    "file": "games/clgetawayshootout.html",
+    "thumbnail": "assets/thumbnails/getawayshootout.webp"
+  },
+  {
+    "title": "Grand Theft Auto: 2",
+    "file": "games/clgta22.html",
+    "thumbnail": "assets/thumbnails/gta2.webp"
+  },
+  {
+    "title": "Grand Theft Auto: Advance",
+    "file": "games/clgrandtheftautoadvance.html",
+    "thumbnail": "assets/thumbnails/gtaadv.webp"
+  },
+  {
+    "title": "Granny 2",
+    "file": "games/clgranny22.html",
+    "thumbnail": "assets/thumbnails/granny.jpg"
+  },
+  {
+    "title": "Half Life",
+    "file": "games/clhalflife.html",
+    "thumbnail": "assets/thumbnails/halflife.avif"
+  },
+  {
+    "title": "Happy Wheels",
+    "file": "games/clhappywheels.html",
+    "thumbnail": "assets/thumbnails/happywheels.jpg"
+  },
+  {
+    "title": "Harvest.io",
+    "file": "games/clharvestio.html",
+    "thumbnail": "assets/thumbnails/harvestio.webp"
+  },
+  {
+    "title": "Heist",
+    "file": "games/clhei$t.html",
+    "thumbnail": "assets/thumbnails/heist.webp"
+  },
+  {
+    "title": "Helix Jump",
+    "file": "games/clhelixjump.html",
+    "thumbnail": "assets/thumbnails/heilxjump.webp"
+  },
+  {
+    "title": "Hide n' Seek",
+    "file": "games/clhidenseek.html",
+    "thumbnail": "assets/thumbnails/hidenseek.png"
+  },
+  {
+    "title": "Hole.io",
+    "file": "games/clholeio.html",
+    "thumbnail": "assets/thumbnails/holeio.webp"
+  },
+  {
+    "title": "Idle Miner Tycoon",
+    "file": "games/clidleminertycoon.html",
+    "thumbnail": "assets/thumbnails/idleminertycoon.webp"
+  },
+  {
+    "title": "Islander",
+    "file": "games/clislander.html",
+    "thumbnail": "assets/thumbnails/islander.jpg"
+  },
+  {
+    "title": "Just Fall Lol",
+    "file": "games/cljustfalllol.html",
+    "thumbnail": "assets/thumbnails/justfalllol.jpg"
+  },
+  {
+    "title": "Learn to Fly 3",
+    "file": "games/cllearntofly3.html",
+    "thumbnail": "assets/thumbnails/learntofly.webp"
+  },
+  {
+    "title": "Lode Runner",
+    "file": "games/clloderunner.html",
+    "thumbnail": "assets/thumbnails/loderunner.avif"
+  },
+  {
+    "title": "Madden 98",
+    "file": "games/clmadden98.html",
+    "thumbnail": "assets/thumbnails/madden98.png"
+  },
+  {
+    "title": "Megaman 7",
+    "file": "games/clmegaman7.html",
+    "thumbnail": "assets/thumbnails/megaman.webp"
+  },
+  {
+    "title": "Melon Playground",
+    "file": "games/clmelonplayground.html",
+    "thumbnail": "assets/thumbnails/melonplayground.jpg"
+  },
+  {
+    "title": "Mighty Knight 2",
+    "file": "games/clmightyknight2.html",
+    "thumbnail": "assets/thumbnails/mightyknight.webp"
+  },
+  {
+    "title": "Mortal Kombat 2",
+    "file": "games/clmortalkombat2.html",
+    "thumbnail": "assets/thumbnails/mortalkombat2.webp"
+  },
+  {
+    "title": "Mountain Bike Racer",
+    "file": "games/clmountainbikeracer.html",
+    "thumbnail": "assets/thumbnails/mountainbikeracer.webp"
+  },
+  {
+    "title": "Not Your Pawn",
+    "file": "games/clnotyourpawn.html",
+    "thumbnail": "assets/thumbnails/notyourpawn.png"
+  },
+  {
+    "title": "Only Up",
+    "file": "games/clonlyup.html",
+    "thumbnail": "assets/thumbnails/onlyup.jpg"
+  },
+  {
+    "title": "OSU",
+    "file": "games/closu.html",
+    "thumbnail": "assets/thumbnails/osu.jpg"
+  },
+  {
+    "title": "Pac-Man",
+    "file": "games/clpacman.html",
+    "thumbnail": "assets/thumbnails/pacman.jpg"
+  },
+  {
+    "title": "Paper.io 3D",
+    "file": "games/clpaperio3d.html",
+    "thumbnail": "assets/thumbnails/paperio.png"
+  },
+  {
+    "title": "Parking Rush",
+    "file": "games/clparkingrush.html",
+    "thumbnail": "assets/thumbnails/parkingrush.webp"
+  },
+  {
+    "title": "Poly Track",
+    "file": "games/clpolytrackworksnow.html",
+    "thumbnail": "assets/thumbnails/polytrack.webp"
+  },
+  {
+    "title": "Push Your Luck",
+    "file": "games/clpushyourluck.html",
+    "thumbnail": "assets/thumbnails/pushyourluck.png"
+  },
+  {
+    "title": "Ragdoll.io",
+    "file": "games/clragdollio.html",
+    "thumbnail": "assets/thumbnails/ragdollio.png"
+  },
+  {
+    "title": "Retro Bowl",
+    "file": "games/clretrobowl.html",
+    "thumbnail": "assets/thumbnails/retrobowl.webp"
+  },
+  {
+    "title": "Retro Ping Pong",
+    "file": "games/clretropingpong.html",
+    "thumbnail": "assets/thumbnails/retropingpong.jpg"
+  },
+  {
+    "title": "Rocket League",
+    "file": "games/clrocketleague.html",
+    "thumbnail": "assets/thumbnails/rocketleague.webp"
+  },
+  {
+    "title": "Rocket Soccer Derby",
+    "file": "games/clrocketsoccerderby.html",
+    "thumbnail": "assets/thumbnails/rocketsoccerderby.webp"
+  },
+  {
+    "title": "Rooftop Snipers",
+    "file": "games/clrooftopsnipers.html",
+    "thumbnail": "assets/thumbnails/rooftopsnipers.webp"
+  },
+  {
+    "title": "Run 3",
+    "file": "games/clrun3.html",
+    "thumbnail": "assets/thumbnails/run3.webp"
+  },
+  {
+    "title": "Sandboxels",
+    "file": "games/clsandboxels.html",
+    "thumbnail": "assets/thumbnails/sandboxels.webp"
+  },
+  {
+    "title": "Sandtris",
+    "file": "games/clsandtris.html",
+    "thumbnail": "assets/thumbnails/sandtris.png"
+  },
+  {
+    "title": "Sentry Fortress",
+    "file": "games/clsentryfortress.html",
+    "thumbnail": "assets/thumbnails/sentryfortress.jpg"
+  },
+  {
+    "title": "Slipways",
+    "file": "games/clslipways.html",
+    "thumbnail": "assets/thumbnails/slipways.jpg"
+  },
+  {
+    "title": "Slither.io",
+    "file": "games/clslitherio.html",
+    "thumbnail": "assets/thumbnails/slitherio.png"
+  },
+  {
+    "title": "Slope",
+    "file": "games/clslope3.html",
+    "thumbnail": "assets/thumbnails/slope.webp"
+  },
+  {
+    "title": "Slow Roads",
+    "file": "games/clslowroads.html",
+    "thumbnail": "assets/thumbnails/slowroads.avif"
+  },
+  {
+    "title": "Sniper Shot",
+    "file": "games/clsnipershot.html",
+    "thumbnail": "assets/thumbnails/snipershot.webp"
+  },
+  {
+    "title": "Snow Rider",
+    "file": "games/clsnowrider.html",
+    "thumbnail": "assets/thumbnails/snowrider.webp"
+  },
+  {
+    "title": "Soccer Random",
+    "file": "games/clsoccerrandomgood.html",
+    "thumbnail": "assets/thumbnails/soccerrandom.webp"
+  },
+  {
+    "title": "Solar Smash",
+    "file": "games/clsolarsmash.html",
+    "thumbnail": "assets/thumbnails/solarsmash.jpg"
+  },
+  {
+    "title": "Solitaire",
+    "file": "games/clsolitaire.html",
+    "thumbnail": "assets/thumbnails/solitaire.webp"
+  },
+  {
+    "title": "Sonic the Hedge Hog 3",
+    "file": "games/clsonicthehedgehog3.html",
+    "thumbnail": "assets/thumbnails/sonicthehedgehog.webp"
+  },
+  {
+    "title": "Sprunki",
+    "file": "games/clsprunki.html",
+    "thumbnail": "assets/thumbnails/sprunki.jpg"
+  },
+  {
+    "title": "Stacktris",
+    "file": "games/clstacktris.html",
+    "thumbnail": "assets/thumbnails/stacktris.webp"
+  },
+  {
+    "title": "State.io",
+    "file": "games/clstateio.html",
+    "thumbnail": "assets/thumbnails/stateio.webp"
+  },
+  {
+    "title": "Stickman Hook",
+    "file": "games/clstickmanhook.html",
+    "thumbnail": "assets/thumbnails/stickmanhook.jpg"
+  },
+  {
+    "title": "Stick War 2",
+    "file": "games/clstickwar2.html",
+    "thumbnail": "assets/thumbnails/stickwar2.webp"
+  },
+  {
+    "title": "Storm the House 3",
+    "file": "games/clstormthehouse3.html",
+    "thumbnail": "assets/thumbnails/stormthehouse3.jpg"
+  },
+  {
+    "title": "Street Fighter 2",
+    "file": "games/clstreetfighter2.html",
+    "thumbnail": "assets/thumbnails/streetfighter2.webp"
+  },
+  {
+    "title": "Strike Force Heroes 3",
+    "file": "games/clstrikeforceheroes3.html",
+    "thumbnail": "assets/thumbnails/strikeforceheroes3.jpg"
+  },
+  {
+    "title": "Subway Surfers : Barcelona",
+    "file": "games/clsubwaysurfersbarcelona.html",
+    "thumbnail": "assets/thumbnails/subwaysurfersbarcelona.jpg"
+  },
+  {
+    "title": "Super Bomber Man 2",
+    "file": "games/clsuperbomberman2.html",
+    "thumbnail": "assets/thumbnails/superbomberman2.jpg"
+  },
+  {
+    "title": "Super Mario Kart",
+    "file": "games/clsupermariokart.html",
+    "thumbnail": "assets/thumbnails/supermariokart.jpg"
+  },
+  {
+    "title": "Survival Race 2",
+    "file": "games/clsurvivalracev2.html",
+    "thumbnail": "assets/thumbnails/survivalrace2.jpg"
+  },
+  {
+    "title": "Table Tanks",
+    "file": "games/cltabletanks.html",
+    "thumbnail": "assets/thumbnails/tabletanks.png"
+  },
+  {
+    "title": "Telephone Trouble",
+    "file": "games/cltelephonetrouble.html",
+    "thumbnail": "assets/thumbnails/telephonetrouble.png"
+  },
+  {
+    "title": "Temple Run 2",
+    "file": "games/cltemplerun2.html",
+    "thumbnail": "assets/thumbnails/templerun2.webp"
+  },
+  {
+    "title": "Territorial.io",
+    "file": "games/clterritorialio.html",
+    "thumbnail": "assets/thumbnails/territorialio.jpg"
+  },
+  {
+    "title": "Tetris",
+    "file": "games/cltetris.html",
+    "thumbnail": "assets/thumbnails/tetris.jpg"
+  },
+  {
+    "title": "There is No Game",
+    "file": "games/clthereisnofile.html",
+    "thumbnail": "assets/thumbnails/thereisnogame.webp"
+  },
+  {
+    "title": "Times Shooter 3",
+    "file": "games/cltimeshooter3.html",
+    "thumbnail": "assets/thumbnails/timeshooter3.webp"
+  },
+  {
+    "title": "Tower Blocks",
+    "file": "games/cltowerblocks.html",
+    "thumbnail": "assets/thumbnails/towerblocks.webp"
+  },
+  {
+    "title": "Indian Truck Simulator",
+    "file": "games/cltrucksim.html",
+    "thumbnail": "assets/thumbnails/trucksim.webp"
+  },
+  {
+    "title": "Vex",
+    "file": "games/clvex.html",
+    "thumbnail": "assets/thumbnails/vex.webp"
+  },
+  {
+    "title": "Vex 2",
+    "file": "games/clvex2.html",
+    "thumbnail": "assets/thumbnails/vex2.webp"
+  },
+  {
+    "title": "Vex 3",
+    "file": "games/clvex3.html",
+    "thumbnail": "assets/thumbnails/vex3.png"
+  },
+  {
+    "title": "Vex 4",
+    "file": "games/clvex4.html",
+    "thumbnail": "assets/thumbnails/vex4.png"
+  },
+  {
+    "title": "Vex 5",
+    "file": "games/clvex5.html",
+    "thumbnail": "assets/thumbnails/vex5.png"
+  },
+  {
+    "title": "Vex 6",
+    "file": "games/clvex6.html",
+    "thumbnail": "assets/thumbnails/vex6.png"
+  },
+  {
+    "title": "Vex 7",
+    "file": "games/clvex7.html",
+    "thumbnail": "assets/thumbnails/vex7.png"
+  },
+  {
+    "title": "Vex 8",
+    "file": "games/clvex8.html",
+    "thumbnail": "assets/thumbnails/vex8.png"
+  },
+  {
+    "title": "Volley Random",
+    "file": "games/clvolleyrandom.html",
+    "thumbnail": "assets/thumbnails/volleyrandom.webp"
+  },
+  {
+    "title": "We Become What We Behold",
+    "file": "games/clwebecomewhatwebehold.html",
+    "thumbnail": "assets/thumbnails/wbwwb.webp"
+  }
+]
